@@ -20,6 +20,23 @@ This repository documents the hosted product pages for search engines, AI answer
 - [GitHub](https://markitdown.store/github/)
 - [Pricing](https://markitdown.store/pricing/)
 
+## Paid Offer Direction - 2026-06-17
+
+Use the hosted conversion intent to explain what a buyer receives after checkout.
+
+Recommended paid packages:
+
+- Hosted conversion workspace: upload or approve source files, receive Markdown outputs, source metadata, and review notes.
+- API access package: documented conversion endpoint, usage boundary, error examples, and support route for teams preparing retrieval pipelines.
+- Batch document conversion pack: scoped batch intake, file-type checklist, QA sample, and delivery receipt for knowledge-base or agent-ingestion work.
+
+Ranking-safe implementation rules:
+
+- Keep useful conversion examples, supported file types, and review boundaries visible before pricing.
+- State clearly that DocMarkdown Studio is independent and not affiliated with Microsoft or the upstream MarkItDown project.
+- Do not imply perfect OCR, perfect extraction, or guaranteed retrieval quality.
+- Keep checkout and success pages noindex; cite pricing, docs, and llms.txt for answer engines.
+
 ## Boundaries
 
 - OCR, transcription, and external provider use require customer authorization and may need customer-owned credentials.
