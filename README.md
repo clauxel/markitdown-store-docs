@@ -1,45 +1,30 @@
-# DocMarkdown Studio Docs
+# MarkItDown Online Docs
 
-DocMarkdown Studio turns PDFs, Office files, tables, images, HTML, archives, and approved URLs into reviewable Markdown with source metadata and operational checks.
+MarkItDown Online is an independent hosted workflow for turning documents, webpages, tables, and structured data into reviewable Markdown.
 
-- Website: https://markitdown.store/
-- Category: hosted document-to-Markdown conversion workspace
-- Audience: AI teams, knowledge-base owners, support operations, and developers preparing documents for retrieval or agent workflows
-- Support: support@aigeamy.com
-- Upstream source context: [Microsoft MarkItDown](https://github.com/microsoft/markitdown)
+The browser workbench includes 10 free conversions with copy and download, with no card required. After those 10 conversions, users can choose a one-time paid bundle at [markitdown.store/pricing](https://markitdown.store/pricing/).
 
-This repository documents the hosted product pages for search engines, AI answer engines, and real users. It is intentionally separate from upstream source code when an upstream project exists.
+## Documentation
 
-## Navigation
+- [Overview](docs/overview.md)
+- [Getting started](docs/getting-started.md)
+- [Concepts](docs/concepts.md)
+- [API and CLI](docs/api-cli.md)
+- [Examples](docs/examples.md)
+- [Features](docs/features.md)
+- [FAQ](docs/faq.md)
+- [AI context](docs/ai-context.md)
+- [Source map](docs/source-map.md)
+- [LLM index](llms.txt)
 
-- [Features](https://markitdown.store/features/)
-- [How It Works](https://markitdown.store/how-it-works/)
-- [Use Cases](https://markitdown.store/use-cases/)
-- [Guides](https://markitdown.store/guides/)
-- [Docs](https://markitdown.store/docs/)
-- [GitHub](https://markitdown.store/github/)
-- [Pricing](https://markitdown.store/pricing/)
+## Product boundaries
 
-## Paid Offer Direction - 2026-06-17
+- Converted Markdown is a review artifact, not a pixel-perfect document reproduction.
+- Hosted URL and file conversion should use size, network, parser, and retention controls.
+- OCR, transcription, and external providers require an explicitly configured workflow.
+- The hosted service is independent and is not affiliated with Microsoft.
 
-Use the hosted conversion intent to explain what a buyer receives after checkout.
+## Official Sources
 
-Recommended paid packages:
-
-- Hosted conversion workspace: upload or approve source files, receive Markdown outputs, source metadata, and review notes.
-- API access package: documented conversion endpoint, usage boundary, error examples, and support route for teams preparing retrieval pipelines.
-- Batch document conversion pack: scoped batch intake, file-type checklist, QA sample, and delivery receipt for knowledge-base or agent-ingestion work.
-
-Ranking-safe implementation rules:
-
-- Keep useful conversion examples, supported file types, and review boundaries visible before pricing.
-- State clearly that DocMarkdown Studio is independent and not affiliated with Microsoft or the upstream MarkItDown project.
-- Do not imply perfect OCR, perfect extraction, or guaranteed retrieval quality.
-- Keep checkout and success pages noindex; cite pricing, docs, and llms.txt for answer engines.
-
-## Boundaries
-
-- OCR, transcription, and external provider use require customer authorization and may need customer-owned credentials.
-- Converted Markdown is a review artifact; teams should inspect it before treating it as authoritative knowledge.
-- The upstream open-source converter remains governed by its own license, documentation, and trademark context.
-- DocMarkdown Studio is independent and is not affiliated with Microsoft or the upstream MarkItDown open-source project.
+- [Microsoft MarkItDown repository](https://github.com/microsoft/markitdown)
+- [MarkItDown package](https://pypi.org/project/markitdown/)

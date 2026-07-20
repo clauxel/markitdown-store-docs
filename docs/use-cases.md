@@ -1,6 +1,6 @@
-# Use Cases - DocMarkdown Studio
+# Use Cases - MarkItDown Online
 
-DocMarkdown Studio turns PDFs, Office files, tables, images, HTML, archives, and approved URLs into reviewable Markdown with source metadata and operational checks.
+MarkItDown Online turns PDFs, Office files, tables, images, HTML, archives, and approved URLs into reviewable Markdown with source metadata and operational checks.
 
 ## Knowledge-base ingestion
 
@@ -20,6 +20,6 @@ Use a private worker and review records when sensitive source material should no
 
 ## Pricing and Support
 
-Plans sell hosted conversion capacity, review records, private-worker options, and support; checkout is shown from the pricing page.
+The first 10 browser conversions are free; paid bundles add hosted conversion capacity, review records, private-worker options, and support.
 
-Support: support@aigeamy.com
+Support: support@markitdown.store

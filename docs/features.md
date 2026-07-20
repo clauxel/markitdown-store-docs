@@ -1,33 +1,21 @@
-# Features - DocMarkdown Studio
+# Features
 
-DocMarkdown Studio turns PDFs, Office files, tables, images, HTML, archives, and approved URLs into reviewable Markdown with source metadata and operational checks.
+## Ten free conversions
+
+Each browser receives 10 conversions with copy and Markdown download included. A payment card is not requested for the free allowance. The workbench shows the remaining count before each run.
+
+## Paid conversion bundles
+
+After the free allowance is used, [pricing](https://markitdown.store/pricing/) offers Starter, Pro, and Enterprise conversion bundles. Payments are one-time and do not automatically renew.
 
 ## Multi-format intake
 
-Accept PDF, Office, spreadsheet, JSON, XML, HTML, image, audio transcript, archive, and pasted text sources without forcing a one-off script for every format.
+The hosted workflow accepts browser-readable text, HTML, CSV, JSON, XML, approved URLs, and worker-routed document formats.
 
-## Reviewable Markdown output
+## Review and handoff
 
-Return Markdown with warnings, source labels, extraction notes, and human-readable artifacts that can be checked before indexing.
+Outputs include source notes, warnings, format details, size, word count, and estimated tokens so the Markdown can be reviewed before indexing or agent use.
 
-## Agent and RAG handoff
+## Official Sources
 
-Shape converted text for retrieval systems, context windows, support answers, analysis jobs, and internal knowledge-base updates.
-
-## Controlled OCR and transcription path
-
-Route image OCR or spoken content only when the customer has permission and the workflow is configured for that provider.
-
-## Private worker option
-
-Keep sensitive or higher-volume conversion work inside a private worker path instead of sending files through ad hoc tools.
-
-## Operational pricing surface
-
-Make conversion capacity, support expectations, and checkout state visible before a team builds around the workflow.
-
-## Pricing and Support
-
-Plans sell hosted conversion capacity, review records, private-worker options, and support; checkout is shown from the pricing page.
-
-Support: support@aigeamy.com
+- [Microsoft MarkItDown repository](https://github.com/microsoft/markitdown)

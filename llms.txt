@@ -1,0 +1,16 @@
+# MarkItDown Online
+
+> Independent hosted document-to-Markdown workflow with 10 free browser conversions before paid bundles are required.
+
+- Product: https://markitdown.store/
+- Getting started: docs/getting-started.md
+- Concepts: docs/concepts.md
+- API and CLI: docs/api-cli.md
+- Examples: docs/examples.md
+- FAQ: docs/faq.md
+- AI context: docs/ai-context.md
+- Source map: docs/source-map.md
+
+## Official Sources
+
+- https://github.com/microsoft/markitdown
