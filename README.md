@@ -2,6 +2,8 @@
 
 MarkItDown Online is an independent hosted workflow for turning documents, webpages, tables, and structured data into reviewable Markdown.
 
+Product home: [markitdown.store](https://markitdown.store/).
+
 The browser workbench includes 10 free conversions with copy and download, with no card required. After those 10 conversions, users can choose a one-time paid bundle at [markitdown.store/pricing](https://markitdown.store/pricing/).
 
 ## Documentation
